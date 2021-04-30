@@ -1,0 +1,23 @@
+p {
+    margin: 20px 5px;
+}
+
+.rojo {
+    color: red;
+}
+
+.azul {
+    color: blue
+}
+
+.enlinea {
+    display: inline;
+}
+
+.noloveo {
+    display: none;
+}
+
+.enlineabloqueante {
+    display: inline-block;
+}
